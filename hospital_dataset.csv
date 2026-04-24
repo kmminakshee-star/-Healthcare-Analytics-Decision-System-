@@ -1,0 +1,101 @@
+Patient_Name,Department,Disease,Age,Treatment_Cost,Days_Admitted,Recovery_Score
+Patient_1,General Medicine,Fever,8,112524.82,8,64
+Patient_2,Neurology,Stroke,18,103121.43,18,55
+Patient_3,Oncology,Lymphoma,9,9320.6,7,64
+Patient_4,Oncology,Tumor,8,86380.53,18,76
+Patient_5,Neurology,Epilepsy,80,45337.65,1,98
+Patient_6,Neurology,Stroke,59,54336.32,5,63
+Patient_7,Orthopedics,Fracture,16,60089.46,12,72
+Patient_8,Oncology,Lymphoma,10,110811.11,18,57
+Patient_9,Pediatrics,Flu,75,47510.85,20,73
+Patient_10,Oncology,Leukemia,13,11644.54,8,99
+Patient_11,Orthopedics,Fracture,34,130640.13,13,67
+Patient_12,Pediatrics,Infection,51,28584.84,12,63
+Patient_13,General Medicine,Diabetes,14,93324,6,84
+Patient_14,General Medicine,Fever,25,72027.73,9,90
+Patient_15,General Medicine,Viral Infection,33,104269.07,2,64
+Patient_16,Cardiology,Arrhythmia,56,43822.43,7,86
+Patient_17,General Medicine,Diabetes,32,100038.61,13,91
+Patient_18,Pediatrics,Flu,38,25246.4,18,84
+Patient_19,Orthopedics,Back Pain,79,67122.9,19,75
+Patient_20,Orthopedics,Fracture,22,78881.31,3,98
+Patient_21,Cardiology,Hypertension,24,95979.68,14,88
+Patient_22,Cardiology,Arrhythmia,53,91403.82,15,83
+Patient_23,Orthopedics,Back Pain,6,103641.09,4,93
+Patient_24,Oncology,Lymphoma,48,21175.07,14,60
+Patient_25,Pediatrics,Flu,38,145923.77,6,82
+Patient_26,Cardiology,Heart Failure,43,127042.06,17,88
+Patient_27,Neurology,Migraine,52,115564.07,18,99
+Patient_28,Oncology,Leukemia,81,52002.63,1,57
+Patient_29,Orthopedics,Arthritis,35,13399.15,19,55
+Patient_30,Cardiology,Heart Failure,67,123323.37,18,99
+Patient_31,Neurology,Migraine,65,142293.06,6,66
+Patient_32,Oncology,Tumor,59,144832.62,18,98
+Patient_33,General Medicine,Viral Infection,30,108377.6,13,92
+Patient_34,General Medicine,Diabetes,61,135444.04,15,57
+Patient_35,Neurology,Migraine,13,54022.41,19,85
+Patient_36,Neurology,Stroke,33,6042.67,2,64
+Patient_37,Cardiology,Hypertension,47,15274.32,8,67
+Patient_38,General Medicine,Diabetes,32,83188.92,19,86
+Patient_39,Pediatrics,Flu,65,122087.06,7,56
+Patient_40,Cardiology,Heart Failure,60,56373.15,14,79
+Patient_41,General Medicine,Fever,17,13788.84,11,56
+Patient_42,Neurology,Migraine,29,82761.43,5,77
+Patient_43,Neurology,Epilepsy,64,41221.93,3,78
+Patient_44,Oncology,Leukemia,11,99561.01,18,50
+Patient_45,Cardiology,Hypertension,26,63930.04,16,63
+Patient_46,Pediatrics,Flu,26,59951.1,13,66
+Patient_47,Pediatrics,Asthma,59,106005.77,18,92
+Patient_48,General Medicine,Diabetes,24,32535.19,7,53
+Patient_49,Oncology,Tumor,74,13838.85,11,53
+Patient_50,Cardiology,Heart Failure,66,77913.31,17,60
+Patient_51,Cardiology,Heart Failure,15,128444.67,3,88
+Patient_52,Cardiology,Heart Failure,35,63547.45,19,65
+Patient_53,Oncology,Tumor,10,94810.32,14,92
+Patient_54,Oncology,Tumor,71,50873.63,9,63
+Patient_55,General Medicine,Viral Infection,45,39609.46,13,58
+Patient_56,General Medicine,Viral Infection,43,71297.56,3,50
+Patient_57,Pediatrics,Infection,77,149433.98,3,84
+Patient_58,Neurology,Stroke,38,24206.2,12,54
+Patient_59,Neurology,Epilepsy,41,27873.29,18,95
+Patient_60,Orthopedics,Back Pain,72,6134.35,18,69
+Patient_61,General Medicine,Fever,22,43347.56,4,97
+Patient_62,Oncology,Leukemia,39,45854.66,7,95
+Patient_63,Orthopedics,Fracture,38,78284.31,9,53
+Patient_64,Cardiology,Heart Failure,59,125255.47,2,50
+Patient_65,Orthopedics,Fracture,38,28429.39,15,85
+Patient_66,General Medicine,Diabetes,76,6402.11,3,94
+Patient_67,Neurology,Stroke,9,126016.28,19,85
+Patient_68,Neurology,Epilepsy,21,11065.18,12,100
+Patient_69,Cardiology,Arrhythmia,31,103899.67,4,72
+Patient_70,Oncology,Lymphoma,84,113674.25,8,60
+Patient_71,Neurology,Epilepsy,8,31007.3,11,100
+Patient_72,Pediatrics,Infection,36,43686.83,4,74
+Patient_73,Cardiology,Arrhythmia,33,33938.06,15,72
+Patient_74,Orthopedics,Fracture,33,8431.34,7,75
+Patient_75,Orthopedics,Arthritis,13,145198.92,9,72
+Patient_76,General Medicine,Viral Infection,56,103530.13,18,71
+Patient_77,Cardiology,Hypertension,38,30892.33,9,52
+Patient_78,Cardiology,Heart Failure,60,55124.63,11,77
+Patient_79,Oncology,Tumor,19,60853.34,19,62
+Patient_80,Orthopedics,Fracture,60,5245.24,18,93
+Patient_81,General Medicine,Viral Infection,30,57812.11,3,92
+Patient_82,Orthopedics,Back Pain,45,101191.18,4,96
+Patient_83,Orthopedics,Back Pain,44,101699.47,11,75
+Patient_84,General Medicine,Diabetes,75,23456.73,14,92
+Patient_85,Pediatrics,Infection,27,94249.66,10,75
+Patient_86,Oncology,Leukemia,43,46602.49,14,100
+Patient_87,Oncology,Tumor,46,72423.29,15,93
+Patient_88,Neurology,Stroke,65,120091.63,6,92
+Patient_89,Cardiology,Arrhythmia,70,101258.81,20,71
+Patient_90,Cardiology,Hypertension,44,37572.9,7,59
+Patient_91,Cardiology,Hypertension,36,147670.72,20,99
+Patient_92,Cardiology,Arrhythmia,58,133489.85,19,62
+Patient_93,General Medicine,Viral Infection,54,76684.69,8,59
+Patient_94,General Medicine,Viral Infection,5,134435.67,4,99
+Patient_95,Pediatrics,Flu,27,121595.93,17,79
+Patient_96,Cardiology,Heart Failure,36,138033.15,4,79
+Patient_97,Neurology,Epilepsy,72,148244.41,20,70
+Patient_98,Pediatrics,Infection,69,66877.41,18,78
+Patient_99,Neurology,Stroke,65,70260.11,8,90
+Patient_100,Orthopedics,Back Pain,67,95878.52,9,78
